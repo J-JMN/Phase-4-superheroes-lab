@@ -69,6 +69,12 @@ The Flask Superheroes API provides endpoints to perform CRUD (Create, Read, Upda
 -   `PATCH /powers/<id>`: Update a power's description.
 -   `POST /hero_powers`: Assign a power to a hero.
 
+## Support and Contact
+
+For questions or support, please open an issue in the GitHub repository or contact [Joseph Mburu] at [joseph.mburu3@student.moringaschool.com].
+
+
+
 ## License
 
 This project is licensed under the MIT License.
